@@ -6,6 +6,8 @@ Run The Command:
 
 You are Ready To Go:
 
-Run:
+Run Command:
 	Versions
+
+ 
 Verify all the versions and install
